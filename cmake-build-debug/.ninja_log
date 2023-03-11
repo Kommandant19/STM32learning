@@ -1,0 +1,24 @@
+# ninja log v5
+1	43	1678553096014314159	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj	a82c5e98898b8756
+0	43	1678553096014314159	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj	3f7beb967bcb9ace
+0	47	1678553096020980845	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj	bbd3ba8ce93e4b88
+0	50	1678553096024314187	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj	109913d53be1e04e
+0	52	1678553096024314187	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj	bc4cbd4277fa5cd6
+0	53	1678553096024314187	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj	6a74f54a11811240
+0	54	1678553096027647530	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj	e2d51c740efd09bc
+0	63	1678553096037647558	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj	befe958d373e410b
+43	73	1678553096044314244	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj	4a76d01d47e811f0
+54	79	1678553096050980929	CMakeFiles/learning.elf.dir/Src/main.c.obj	7231522d70facc5a
+52	85	1678553096057647615	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj	a2dfbabe0bbe462d
+53	85	1678553096057647615	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj	a22ab98d8cf04340
+43	85	1678553096057647615	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj	6adba71154e2cc77
+63	95	1678553096067647643	CMakeFiles/learning.elf.dir/Src/stm32f0xx_hal_msp.c.obj	7b9036167652fb04
+85	95	1678553096067647643	CMakeFiles/learning.elf.dir/Startup/startup_stm32f030f4px.s.obj	7a280bdb462473c0
+50	95	1678553096067647643	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj	b403d07d5de6c062
+85	102	1678553096074314329	CMakeFiles/learning.elf.dir/Src/sysmem.c.obj	18d658111144fc80
+73	104	1678553096077647671	CMakeFiles/learning.elf.dir/Src/stm32f0xx_it.c.obj	e38de88109a6e07b
+47	116	1678553096087647700	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj	a4c969c4a6cd5775
+79	117	1678553096090981043	CMakeFiles/learning.elf.dir/Src/syscalls.c.obj	b597d5c4460a1187
+85	120	1678553096094314386	CMakeFiles/learning.elf.dir/Src/system_stm32f0xx.c.obj	5ef9e95076787767
+1	258	1678553096230981439	CMakeFiles/learning.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj	695572ec8f47bd62
+258	278	1678553096247648153	learning.elf	10319289f3d63238
